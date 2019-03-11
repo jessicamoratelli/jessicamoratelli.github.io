@@ -1,0 +1,11 @@
+1 - EDITAR COM NOTEPAD++ O ARQUIVO INDEX.HTML, BOTAO DIREITO DO MOUSE E IR EM EDIT WITH NOTEPAD++
+2 - ALTERAR O QUE QUISER NO ARQUIVO.
+3 - enviar a alteração para o site da seguinte forma:
+dentro desta pasta aqui clicar com o botao direito do mouse e ir em:
+SVN Commit
+Na tela que abre selecionar todos os arquivos com a opção ALL.
+clicar em ok
+Vai dar um erro
+clicar no lado direito em:Retry as different user e informar os dados:
+Username:jessicamariakochmoratelli@gmail.com
+Password:!@#$%geo.453196
